@@ -1,0 +1,127 @@
+@import '../../styles/variables';
+
+
+
+.hero {
+      background-color: $background;
+      padding: $spacing-large 0;
+      color: $text-color-primary;
+      padding: 0 !important;
+
+      .wrapper {
+            @include aic;
+            flex-direction: column;
+            max-width: 768px;
+            align-items: start;
+            padding: 2rem 1rem;
+
+            .details {
+                  width: 80%;
+                  text-align: left;
+                  @include aic;
+                  flex-direction: column;
+                  align-items: start;
+
+                  h1 {
+                        color: $text-color-success;
+                        font-size: $font-size-large * 2;
+                        line-height: 1;
+                  }
+
+                  span {
+                        color: $text-color-muted;
+                        font-size: $font-size-small;
+                        margin-top: $spacing-medium;
+                        margin-bottom: $spacing-unit;
+                  }
+
+                  .btn {
+                        margin-top: $spacing-unit;
+                        color: $button-text-color;
+                        @include aic;
+                        gap: 4px;
+                  }
+
+
+            }
+
+            .img_wrapper {
+                  flex: 1;
+                  display: flex;
+                  justify-content: flex-end;
+
+                  .hero_img {
+                        max-width: 100%;
+                        height: auto;
+                  }
+            }
+      }
+}
+
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) {}
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 769px) {
+
+      .hero {
+
+            .wrapper {
+                  @include aic;
+                  flex-direction: row;
+                  max-width: 100%;
+                  align-items: start;
+                  padding: 2rem 4rem;
+
+                  .details {
+                        width: 40%;
+                        text-align: left;
+                        @include aic;
+                        flex-direction: column;
+                        align-items: start;
+                        padding-top: $spacing-large * 4;
+
+                        h1 {
+                              color: $text-color-success;
+                              font-size: $font-size-large * 3;
+                              line-height: 1.2;
+                              margin-bottom: $spacing-medium;
+                        }
+
+                        span {
+                              color: $text-color-muted;
+                              font-size: $font-size-medium;
+                              margin-top: $spacing-medium;
+                              margin-bottom: $spacing-large;
+                        }
+
+                        .btn {
+                              margin-top: $spacing-unit;
+                        }
+
+
+                  }
+
+                  .img_wrapper {
+                        flex: 1;
+                        display: flex;
+                        justify-content: flex-end;
+
+                        .hero_img {
+                              max-width: 100%;
+                              height: auto;
+                        }
+                  }
+            }
+      }
+}
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {}
+
+// X-Large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {}
+
+// XX-Large devices (larger desktops, 1400px and up)
+@media (min-width: 1400px) {}

@@ -1,0 +1,91 @@
+@import './fonts';
+
+//----------------- Variables.scss -----------------
+
+$primary-color: #1cca6a;
+$accent-color: #b92eff;
+$background: hsla(0, 0%, 100%, 0.893);
+
+// ----------------- box shadows ----------------------
+
+$box-shadow-small: 0 2px 4px rgba(0, 0, 0, 0.1); // Small box shadow
+$box-shadow-medium: 0 4px 6px rgba(0, 0, 0, 0.1); // Medium box shadow
+$box-shadow-large: 0 6px 10px rgba(0, 0, 0, 0.1); // Large box shadow
+$box-shadow-hover: 0 8px 12px rgba(0, 0, 0, 0.2); // Box shadow on hover
+$box-shadow-focus: 0 4px 8px rgba(0, 0, 0, 0.2); // Box shadow on focus
+
+
+// ----------------- text colors ----------------------
+
+$text-color-primary: #1c1e21; // Primary text color
+$text-color-secondary: #253c6a; // Secondary text color
+$text-color-muted: #343f38f1; // Muted or light text color
+$text-color-accent: #e74c3c; // Accent or highlight text color
+$text-color-success: #2ecc71; // Success-related text color
+$text-color-warning: #f39c12; // Warning-related text color
+$text-color-error: #e74c3c; // Error-related text color
+$text-color-info: #007bff; // Information-related text color
+$text-color-info-hover: #0056b3; // Information-related text color
+
+// ----------------- Z-Index ----------------------
+$z-index-low: 1;
+$z-index-medium: 10;
+$z-index-high: 100;
+
+// ----------------- Spacing ----------------------
+$spacing-unit: 8px; // Base unit for spacing
+$spacing-small: $spacing-unit * 2;
+$spacing-medium: $spacing-unit * 3;
+$spacing-large: $spacing-unit * 4;
+
+// ----------------- Font Sizes ----------------------
+$font-size-small: 14px;
+$font-size-medium: 16px;
+$font-size-large: 18px;
+
+// ----------------- Font Families ----------------------
+$font-primary: primary;
+$font-secondary: Times New Roman, serif;
+
+// ----------------- Transitions ----------------------
+$transition-fast: 0.2s;
+$transition-medium: 0.4s;
+$transition-slow: 0.6s;
+
+// ----------------- Opacity ----------------------
+$opacity-light: 0.7;
+$opacity-semi-transparent: 0.5;
+$opacity-very-transparent: 0.2;
+
+
+
+// ----------------- borders ----------------------
+
+$border-primary-light: 1px solid $text-color-primary ;
+$border-primary-medium: 2px solid $text-color-primary ;
+$border-primary-bold: 3px solid $text-color-primary ;
+
+
+$button-background-color: $accent-color;
+$button-text-color: #ffffff;
+
+@mixin aic {
+  display: flex;
+  align-items: center;
+}
+
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) {  }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) {  }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {  }
+
+// X-Large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {  }
+
+// XX-Large devices (larger desktops, 1400px and up)
+@media (min-width: 1400px) {  }

@@ -1,0 +1,1578 @@
+{
+  "allpapers": [
+    {
+      "id": 1,
+      "title": "Mathematics Past Paper 2022",
+      "subject": "Mathematics",
+      "year": "2022",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Mathematics Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Mathematics/2022.pdf"
+    },
+    {
+      "id": 2,
+      "title": "Mathematics Past Paper 2021",
+      "subject": "Mathematics",
+      "year": "2021",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Mathematics Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Mathematics/2022.pdf"
+    },
+    {
+      "id": 3,
+      "title": "Mathematics Past Paper 2020",
+      "subject": "Mathematics",
+      "year": "2020",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Mathematics Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Mathematics/2022.pdf"
+    },
+    {
+      "id": 4,
+      "title": "Mathematics Past Paper 2019",
+      "subject": "Mathematics",
+      "year": "2019",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Mathematics Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Mathematics/2022.pdf"
+    },
+    {
+      "id": 5,
+      "title": "Mathematics Past Paper 2018",
+      "subject": "Mathematics",
+      "year": "2018",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Mathematics Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Mathematics/2022.pdf"
+    },
+    {
+      "id": 6,
+      "title": "Mathematics Past Paper 2017",
+      "subject": "Mathematics",
+      "year": "2017",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Mathematics Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Mathematics/2022.pdf"
+    },
+    {
+      "id": 7,
+      "title": "Mathematics Past Paper 2016",
+      "subject": "Mathematics",
+      "year": "2016",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Mathematics Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Mathematics/2022.pdf"
+    },
+    {
+      "id": 8,
+      "title": "Science Past Paper 2022",
+      "subject": "Science",
+      "year": "2022",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Science Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Science/2022.pdf"
+    },
+    {
+      "id": 9,
+      "title": "Science Past Paper 2021",
+      "subject": "Science",
+      "year": "2021",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Science Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Science/2022.pdf"
+    },
+    {
+      "id": 10,
+      "title": "Science Past Paper 2020",
+      "subject": "Science",
+      "year": "2020",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Science Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Science/2022.pdf"
+    },
+    {
+      "id": 11,
+      "title": "Science Past Paper 2019",
+      "subject": "Science",
+      "year": "2019",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Science Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Science/2022.pdf"
+    },
+    {
+      "id": 12,
+      "title": "Science Past Paper 2018",
+      "subject": "Science",
+      "year": "2018",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Science Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Science/2022.pdf"
+    },
+    {
+      "id": 13,
+      "title": "Science Past Paper 2017",
+      "subject": "Science",
+      "year": "2017",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Science Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Science/2022.pdf"
+    },
+    {
+      "id": 14,
+      "title": "Science Past Paper 2016",
+      "subject": "Science",
+      "year": "2016",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Science Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Science/2022.pdf"
+    }
+  ],
+  "subjects": [
+    {
+      "id": 1,
+      "subject": "Mathematics"
+    },
+    {
+      "id": 2,
+      "subject": "Science"
+    },
+    {
+      "id": 3,
+      "subject": "History"
+    },
+    {
+      "id": 4,
+      "subject": "Sinhala Language"
+    },
+    {
+      "id": 5,
+      "subject": "English"
+    },
+    {
+      "id": 6,
+      "subject": "Buddhism"
+    },
+    {
+      "id": 7,
+      "subject": "Commerce"
+    },
+    {
+      "id": 8,
+      "subject": "Tamil"
+    },
+    {
+      "id": 9,
+      "subject": "Japanese"
+    },
+    {
+      "id": 10,
+      "subject": "Sinhala Lit:"
+    },
+    {
+      "id": 11,
+      "subject": "English Lit:"
+    },
+    {
+      "id": 12,
+      "subject": "Music"
+    },
+    {
+      "id": 13,
+      "subject": "Art"
+    },
+    {
+      "id": 14,
+      "subject": "Dancing"
+    },
+    {
+      "id": 15,
+      "subject": "ICT"
+    },
+    {
+      "id": 16,
+      "subject": "Health"
+    }
+  ],
+  "maths": [
+    {
+      "id": 1,
+      "title": "Mathematics Past Paper 2022",
+      "subject": "Mathematics",
+      "year": "2022",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Mathematics Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Mathematics/2022.pdf"
+    },
+    {
+      "id": 2,
+      "title": "Mathematics Past Paper 2021",
+      "subject": "Mathematics",
+      "year": "2021",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Mathematics Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Mathematics/2022.pdf"
+    },
+    {
+      "id": 3,
+      "title": "Mathematics Past Paper 2020",
+      "subject": "Mathematics",
+      "year": "2020",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Mathematics Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Mathematics/2022.pdf"
+    },
+    {
+      "id": 4,
+      "title": "Mathematics Past Paper 2019",
+      "subject": "Mathematics",
+      "year": "2019",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Mathematics Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Mathematics/2022.pdf"
+    },
+    {
+      "id": 5,
+      "title": "Mathematics Past Paper 2018",
+      "subject": "Mathematics",
+      "year": "2018",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Mathematics Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Mathematics/2022.pdf"
+    },
+    {
+      "id": 6,
+      "title": "Mathematics Past Paper 2017",
+      "subject": "Mathematics",
+      "year": "2017",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Mathematics Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Mathematics/2022.pdf"
+    },
+    {
+      "id": 7,
+      "title": "Mathematics Past Paper 2016",
+      "subject": "Mathematics",
+      "year": "2016",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Mathematics Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Mathematics/2022.pdf"
+    }
+  ],
+  "Science": [
+    {
+      "id": 1,
+      "title": "Science Past Paper 2022",
+      "subject": "Science",
+      "year": "2022",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Science Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Science/2022.pdf"
+    },
+    {
+      "id": 2,
+      "title": "Science Past Paper 2021",
+      "subject": "Science",
+      "year": "2021",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Science Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Science/2022.pdf"
+    },
+    {
+      "id": 3,
+      "title": "Science Past Paper 2020",
+      "subject": "Science",
+      "year": "2020",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Science Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Science/2022.pdf"
+    },
+    {
+      "id": 4,
+      "title": "Science Past Paper 2019",
+      "subject": "Science",
+      "year": "2019",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Science Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Science/2022.pdf"
+    },
+    {
+      "id": 5,
+      "title": "Science Past Paper 2018",
+      "subject": "Science",
+      "year": "2018",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Science Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Science/2022.pdf"
+    },
+    {
+      "id": 6,
+      "title": "Science Past Paper 2017",
+      "subject": "Science",
+      "year": "2017",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Science Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Science/2022.pdf"
+    },
+    {
+      "id": 7,
+      "title": "Science Past Paper 2016",
+      "subject": "Science",
+      "year": "2016",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Science Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Science/2022.pdf"
+    }
+  ],
+  "sinhala": [
+    {
+      "id": 1,
+      "title": "Sinhala Past Paper 2022",
+      "subject": "Sinhala",
+      "year": "2022",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Sinhala Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Sinhala/2022.pdf"
+    },
+    {
+      "id": 2,
+      "title": "Sinhala Past Paper 2021",
+      "subject": "Sinhala",
+      "year": "2021",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Sinhala Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Sinhala/2022.pdf"
+    },
+    {
+      "id": 3,
+      "title": "Sinhala Past Paper 2020",
+      "subject": "Sinhala",
+      "year": "2020",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Sinhala Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Sinhala/2022.pdf"
+    },
+    {
+      "id": 4,
+      "title": "Sinhala Past Paper 2019",
+      "subject": "Sinhala",
+      "year": "2019",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Sinhala Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Sinhala/2022.pdf"
+    },
+    {
+      "id": 5,
+      "title": "Sinhala Past Paper 2018",
+      "subject": "Sinhala",
+      "year": "2018",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Sinhala Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Sinhala/2022.pdf"
+    },
+    {
+      "id": 6,
+      "title": "Sinhala Past Paper 2017",
+      "subject": "Sinhala",
+      "year": "2017",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Sinhala Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Sinhala/2022.pdf"
+    },
+    {
+      "id": 7,
+      "title": "Sinhala Past Paper 2016",
+      "subject": "Sinhala",
+      "year": "2016",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Sinhala Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Sinhala/2022.pdf"
+    }
+  ],
+  "History": [
+    {
+      "id": 1,
+      "title": "History Past Paper 2022",
+      "subject": "History",
+      "year": "2022",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L History Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/History/2022.pdf"
+    },
+    {
+      "id": 2,
+      "title": "History Past Paper 2021",
+      "subject": "History",
+      "year": "2021",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L History Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/History/2022.pdf"
+    },
+    {
+      "id": 3,
+      "title": "History Past Paper 2020",
+      "subject": "History",
+      "year": "2020",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L History Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/History/2022.pdf"
+    },
+    {
+      "id": 4,
+      "title": "History Past Paper 2019",
+      "subject": "History",
+      "year": "2019",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L History Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/History/2022.pdf"
+    },
+    {
+      "id": 5,
+      "title": "History Past Paper 2018",
+      "subject": "History",
+      "year": "2018",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L History Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/History/2022.pdf"
+    },
+    {
+      "id": 6,
+      "title": "History Past Paper 2017",
+      "subject": "History",
+      "year": "2017",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L History Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/History/2022.pdf"
+    },
+    {
+      "id": 7,
+      "title": "History Past Paper 2016",
+      "subject": "History",
+      "year": "2016",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L History Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/History/2022.pdf"
+    }
+  ],
+  "English": [
+    {
+      "id": 1,
+      "title": "English Past Paper 2022",
+      "subject": "English",
+      "year": "2022",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L English Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/English/2022.pdf"
+    },
+    {
+      "id": 2,
+      "title": "English Past Paper 2021",
+      "subject": "English",
+      "year": "2021",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L English Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/English/2022.pdf"
+    },
+    {
+      "id": 3,
+      "title": "English Past Paper 2020",
+      "subject": "English",
+      "year": "2020",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L English Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/English/2022.pdf"
+    },
+    {
+      "id": 4,
+      "title": "English Past Paper 2019",
+      "subject": "English",
+      "year": "2019",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L English Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/English/2022.pdf"
+    },
+    {
+      "id": 5,
+      "title": "English Past Paper 2018",
+      "subject": "English",
+      "year": "2018",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L English Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/English/2022.pdf"
+    },
+    {
+      "id": 6,
+      "title": "English Past Paper 2017",
+      "subject": "English",
+      "year": "2017",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L English Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/English/2022.pdf"
+    },
+    {
+      "id": 7,
+      "title": "English Past Paper 2016",
+      "subject": "English",
+      "year": "2016",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L English Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/English/2022.pdf"
+    }
+  ],
+  "Buddhism": [
+    {
+      "id": 1,
+      "title": "Buddhism Past Paper 2022",
+      "subject": "Buddhism",
+      "year": "2022",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Buddhism Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Buddhism/2022.pdf"
+    },
+    {
+      "id": 2,
+      "title": "Buddhism Past Paper 2021",
+      "subject": "Buddhism",
+      "year": "2021",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Buddhism Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Buddhism/2022.pdf"
+    },
+    {
+      "id": 3,
+      "title": "Buddhism Past Paper 2020",
+      "subject": "Buddhism",
+      "year": "2020",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Buddhism Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Buddhism/2022.pdf"
+    },
+    {
+      "id": 4,
+      "title": "Buddhism Past Paper 2019",
+      "subject": "Buddhism",
+      "year": "2019",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Buddhism Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Buddhism/2022.pdf"
+    },
+    {
+      "id": 5,
+      "title": "Buddhism Past Paper 2018",
+      "subject": "Buddhism",
+      "year": "2018",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Buddhism Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Buddhism/2022.pdf"
+    },
+    {
+      "id": 6,
+      "title": "Buddhism Past Paper 2017",
+      "subject": "Buddhism",
+      "year": "2017",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Buddhism Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Buddhism/2022.pdf"
+    },
+    {
+      "id": 7,
+      "title": "Buddhism Past Paper 2016",
+      "subject": "Buddhism",
+      "year": "2016",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Buddhism Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Buddhism/2022.pdf"
+    }
+  ],
+  "Commerce": [
+    {
+      "id": 1,
+      "title": "Commerce Past Paper 2022",
+      "subject": "Commerce",
+      "year": "2022",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Commerce Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Commerce/2022.pdf"
+    },
+    {
+      "id": 2,
+      "title": "Commerce Past Paper 2021",
+      "subject": "Commerce",
+      "year": "2021",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Commerce Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Commerce/2022.pdf"
+    },
+    {
+      "id": 3,
+      "title": "Commerce Past Paper 2020",
+      "subject": "Commerce",
+      "year": "2020",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Commerce Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Commerce/2022.pdf"
+    },
+    {
+      "id": 4,
+      "title": "Commerce Past Paper 2019",
+      "subject": "Commerce",
+      "year": "2019",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Commerce Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Commerce/2022.pdf"
+    },
+    {
+      "id": 5,
+      "title": "Commerce Past Paper 2018",
+      "subject": "Commerce",
+      "year": "2018",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Commerce Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Commerce/2022.pdf"
+    },
+    {
+      "id": 6,
+      "title": "Commerce Past Paper 2017",
+      "subject": "Commerce",
+      "year": "2017",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Commerce Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Commerce/2022.pdf"
+    },
+    {
+      "id": 7,
+      "title": "Commerce Past Paper 2016",
+      "subject": "Commerce",
+      "year": "2016",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Commerce Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Commerce/2022.pdf"
+    }
+  ],
+  "Tamil": [
+    {
+      "id": 1,
+      "title": "Tamil Past Paper 2022",
+      "subject": "Tamil",
+      "year": "2022",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Tamil Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Tamil/2022.pdf"
+    },
+    {
+      "id": 2,
+      "title": "Tamil Past Paper 2021",
+      "subject": "Tamil",
+      "year": "2021",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Tamil Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Tamil/2022.pdf"
+    },
+    {
+      "id": 3,
+      "title": "Tamil Past Paper 2020",
+      "subject": "Tamil",
+      "year": "2020",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Tamil Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Tamil/2022.pdf"
+    },
+    {
+      "id": 4,
+      "title": "Tamil Past Paper 2019",
+      "subject": "Tamil",
+      "year": "2019",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Tamil Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Tamil/2022.pdf"
+    },
+    {
+      "id": 5,
+      "title": "Tamil Past Paper 2018",
+      "subject": "Tamil",
+      "year": "2018",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Tamil Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Tamil/2022.pdf"
+    },
+    {
+      "id": 6,
+      "title": "Tamil Past Paper 2017",
+      "subject": "Tamil",
+      "year": "2017",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Tamil Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Tamil/2022.pdf"
+    },
+    {
+      "id": 7,
+      "title": "Tamil Past Paper 2016",
+      "subject": "Tamil",
+      "year": "2016",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Tamil Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Tamil/2022.pdf"
+    }
+  ],
+  "Japanese": [
+    {
+      "id": 1,
+      "title": "Japanese Past Paper 2022",
+      "subject": "Japanese",
+      "year": "2022",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Japanese Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Japanese/2022.pdf"
+    },
+    {
+      "id": 2,
+      "title": "Japanese Past Paper 2021",
+      "subject": "Japanese",
+      "year": "2021",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Japanese Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Japanese/2022.pdf"
+    },
+    {
+      "id": 3,
+      "title": "Japanese Past Paper 2020",
+      "subject": "Japanese",
+      "year": "2020",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Japanese Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Japanese/2022.pdf"
+    },
+    {
+      "id": 4,
+      "title": "Japanese Past Paper 2019",
+      "subject": "Japanese",
+      "year": "2019",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Japanese Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Japanese/2022.pdf"
+    },
+    {
+      "id": 5,
+      "title": "Japanese Past Paper 2018",
+      "subject": "Japanese",
+      "year": "2018",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Japanese Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Japanese/2022.pdf"
+    },
+    {
+      "id": 6,
+      "title": "Japanese Past Paper 2017",
+      "subject": "Japanese",
+      "year": "2017",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Japanese Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Japanese/2022.pdf"
+    },
+    {
+      "id": 7,
+      "title": "Japanese Past Paper 2016",
+      "subject": "Japanese",
+      "year": "2016",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Japanese Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Japanese/2022.pdf"
+    }
+  ],
+  "SinhalaLit": [
+    {
+      "id": 1,
+      "title": "Sinhala literature Past Paper 2022",
+      "subject": "Sinhala literature",
+      "year": "2022",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Sinhala literature Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Sinhala literature/2022.pdf"
+    },
+    {
+      "id": 2,
+      "title": "Sinhala literature Past Paper 2021",
+      "subject": "Sinhala literature",
+      "year": "2021",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Sinhala literature Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Sinhala literature/2022.pdf"
+    },
+    {
+      "id": 3,
+      "title": "Sinhala literature Past Paper 2020",
+      "subject": "Sinhala literature",
+      "year": "2020",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Sinhala literature Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Sinhala literature/2022.pdf"
+    },
+    {
+      "id": 4,
+      "title": "Sinhala literature Past Paper 2019",
+      "subject": "Sinhala literature",
+      "year": "2019",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Sinhala literature Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Sinhala literature/2022.pdf"
+    },
+    {
+      "id": 5,
+      "title": "Sinhala literature Past Paper 2018",
+      "subject": "Sinhala literature",
+      "year": "2018",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Sinhala literature Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Sinhala literature/2022.pdf"
+    },
+    {
+      "id": 6,
+      "title": "Sinhala literature Past Paper 2017",
+      "subject": "Sinhala literature",
+      "year": "2017",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Sinhala literature Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Sinhala literature/2022.pdf"
+    },
+    {
+      "id": 7,
+      "title": "Sinhala literature Past Paper 2016",
+      "subject": "Sinhala literature",
+      "year": "2016",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Sinhala literature Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Sinhala literature/2022.pdf"
+    }
+  ],
+  "EnglishLit": [
+    {
+      "id": 1,
+      "title": "English literature Past Paper 2022",
+      "subject": "English literature",
+      "year": "2022",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L English literature Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/English literature/2022.pdf"
+    },
+    {
+      "id": 2,
+      "title": "English literature Past Paper 2021",
+      "subject": "English literature",
+      "year": "2021",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L English literature Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/English literature/2022.pdf"
+    },
+    {
+      "id": 3,
+      "title": "English literature Past Paper 2020",
+      "subject": "English literature",
+      "year": "2020",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L English literature Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/English literature/2022.pdf"
+    },
+    {
+      "id": 4,
+      "title": "English literature Past Paper 2019",
+      "subject": "English literature",
+      "year": "2019",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L English literature Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/English literature/2022.pdf"
+    },
+    {
+      "id": 5,
+      "title": "English literature Past Paper 2018",
+      "subject": "English literature",
+      "year": "2018",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L English literature Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/English literature/2022.pdf"
+    },
+    {
+      "id": 6,
+      "title": "English literature Past Paper 2017",
+      "subject": "English literature",
+      "year": "2017",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L English literature Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/English literature/2022.pdf"
+    },
+    {
+      "id": 7,
+      "title": "English literature Past Paper 2016",
+      "subject": "English literature",
+      "year": "2016",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L English literature Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/English literature/2022.pdf"
+    }
+  ],
+  "Music": [
+    {
+      "id": 1,
+      "title": "Music Past Paper 2022",
+      "subject": "Music",
+      "year": "2022",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Music Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Music/2022.pdf"
+    },
+    {
+      "id": 2,
+      "title": "Music Past Paper 2021",
+      "subject": "Music",
+      "year": "2021",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Music Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Music/2022.pdf"
+    },
+    {
+      "id": 3,
+      "title": "Music Past Paper 2020",
+      "subject": "Music",
+      "year": "2020",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Music Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Music/2022.pdf"
+    },
+    {
+      "id": 4,
+      "title": "Music Past Paper 2019",
+      "subject": "Music",
+      "year": "2019",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Music Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Music/2022.pdf"
+    },
+    {
+      "id": 5,
+      "title": "Music Past Paper 2018",
+      "subject": "Music",
+      "year": "2018",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Music Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Music/2022.pdf"
+    },
+    {
+      "id": 6,
+      "title": "Music Past Paper 2017",
+      "subject": "Music",
+      "year": "2017",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Music Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Music/2022.pdf"
+    },
+    {
+      "id": 7,
+      "title": "Music Past Paper 2016",
+      "subject": "Music",
+      "year": "2016",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Music Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Music/2022.pdf"
+    }
+  ],
+  "Art": [
+    {
+      "id": 1,
+      "title": "Art Past Paper 2022",
+      "subject": "Art",
+      "year": "2022",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Art Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Art/2022.pdf"
+    },
+    {
+      "id": 2,
+      "title": "Art Past Paper 2021",
+      "subject": "Art",
+      "year": "2021",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Art Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Art/2022.pdf"
+    },
+    {
+      "id": 3,
+      "title": "Art Past Paper 2020",
+      "subject": "Art",
+      "year": "2020",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Art Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Art/2022.pdf"
+    },
+    {
+      "id": 4,
+      "title": "Art Past Paper 2019",
+      "subject": "Art",
+      "year": "2019",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Art Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Art/2022.pdf"
+    },
+    {
+      "id": 5,
+      "title": "Art Past Paper 2018",
+      "subject": "Art",
+      "year": "2018",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Art Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Art/2022.pdf"
+    },
+    {
+      "id": 6,
+      "title": "Art Past Paper 2017",
+      "subject": "Art",
+      "year": "2017",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Art Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Art/2022.pdf"
+    },
+    {
+      "id": 7,
+      "title": "Art Past Paper 2016",
+      "subject": "Art",
+      "year": "2016",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Art Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Art/2022.pdf"
+    }
+  ],
+  "ICT": [
+    {
+      "id": 1,
+      "title": "ICT Past Paper 2022",
+      "subject": "ICT",
+      "year": "2022",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L ICT Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/ICT/2022.pdf"
+    },
+    {
+      "id": 2,
+      "title": "ICT Past Paper 2021",
+      "subject": "ICT",
+      "year": "2021",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L ICT Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/ICT/2022.pdf"
+    },
+    {
+      "id": 3,
+      "title": "ICT Past Paper 2020",
+      "subject": "ICT",
+      "year": "2020",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L ICT Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/ICT/2022.pdf"
+    },
+    {
+      "id": 4,
+      "title": "ICT Past Paper 2019",
+      "subject": "ICT",
+      "year": "2019",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L ICT Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/ICT/2022.pdf"
+    },
+    {
+      "id": 5,
+      "title": "ICT Past Paper 2018",
+      "subject": "ICT",
+      "year": "2018",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L ICT Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/ICT/2022.pdf"
+    },
+    {
+      "id": 6,
+      "title": "ICT Past Paper 2017",
+      "subject": "ICT",
+      "year": "2017",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L ICT Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/ICT/2022.pdf"
+    },
+    {
+      "id": 7,
+      "title": "ICT Past Paper 2016",
+      "subject": "ICT",
+      "year": "2016",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L ICT Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/ICT/2022.pdf"
+    }
+  ],
+  "Health": [
+    {
+      "id": 1,
+      "title": "Health Past Paper 2022",
+      "subject": "Health",
+      "year": "2022",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Health Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Health/2022.pdf"
+    },
+    {
+      "id": 2,
+      "title": "Health Past Paper 2021",
+      "subject": "Health",
+      "year": "2021",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Health Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Health/2022.pdf"
+    },
+    {
+      "id": 3,
+      "title": "Health Past Paper 2020",
+      "subject": "Health",
+      "year": "2020",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Health Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Health/2022.pdf"
+    },
+    {
+      "id": 4,
+      "title": "Health Past Paper 2019",
+      "subject": "Health",
+      "year": "2019",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Health Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Health/2022.pdf"
+    },
+    {
+      "id": 5,
+      "title": "Health Past Paper 2018",
+      "subject": "Health",
+      "year": "2018",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Health Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Health/2022.pdf"
+    },
+    {
+      "id": 6,
+      "title": "Health Past Paper 2017",
+      "subject": "Health",
+      "year": "2017",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Health Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Health/2022.pdf"
+    },
+    {
+      "id": 7,
+      "title": "Health Past Paper 2016",
+      "subject": "Health",
+      "year": "2016",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Health Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Health/2022.pdf"
+    }
+  ],
+  "Dancing": [
+    {
+      "id": 1,
+      "title": "Dancing Past Paper 2022",
+      "subject": "Dancing",
+      "year": "2022",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Dancing Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Dancing/2022.pdf"
+    },
+    {
+      "id": 2,
+      "title": "Dancing Past Paper 2021",
+      "subject": "Dancing",
+      "year": "2021",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Dancing Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Dancing/2022.pdf"
+    },
+    {
+      "id": 3,
+      "title": "Dancing Past Paper 2020",
+      "subject": "Dancing",
+      "year": "2020",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Dancing Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Dancing/2022.pdf"
+    },
+    {
+      "id": 4,
+      "title": "Dancing Past Paper 2019",
+      "subject": "Dancing",
+      "year": "2019",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Dancing Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Dancing/2022.pdf"
+    },
+    {
+      "id": 5,
+      "title": "Dancing Past Paper 2018",
+      "subject": "Dancing",
+      "year": "2018",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Dancing Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Dancing/2022.pdf"
+    },
+    {
+      "id": 6,
+      "title": "Dancing Past Paper 2017",
+      "subject": "Dancing",
+      "year": "2017",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Dancing Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Dancing/2022.pdf"
+    },
+    {
+      "id": 7,
+      "title": "Dancing Past Paper 2016",
+      "subject": "Dancing",
+      "year": "2016",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Dancing Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Dancing/2022.pdf"
+    }
+  ],
+  "ICTEn": [
+    {
+      "id": 1,
+      "title": "ICT Past Paper 2022",
+      "subject": "ICT",
+      "year": "2022",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L ICT Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/ICT/2022.pdf"
+    },
+    {
+      "id": 2,
+      "title": "ICT Past Paper 2021",
+      "subject": "ICT",
+      "year": "2021",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L ICT Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/ICT/2022.pdf"
+    },
+    {
+      "id": 3,
+      "title": "ICT Past Paper 2020",
+      "subject": "ICT",
+      "year": "2020",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L ICT Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/ICT/2022.pdf"
+    },
+    {
+      "id": 4,
+      "title": "ICT Past Paper 2019",
+      "subject": "ICT",
+      "year": "2019",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L ICT Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/ICT/2022.pdf"
+    },
+    {
+      "id": 5,
+      "title": "ICT Past Paper 2018",
+      "subject": "ICT",
+      "year": "2018",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L ICT Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/ICT/2022.pdf"
+    },
+    {
+      "id": 6,
+      "title": "ICT Past Paper 2017",
+      "subject": "ICT",
+      "year": "2017",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L ICT Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/ICT/2022.pdf"
+    },
+    {
+      "id": 7,
+      "title": "ICT Past Paper 2016",
+      "subject": "ICT",
+      "year": "2016",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L ICT Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/ICT/2022.pdf"
+    }
+  ],
+  "mathsEn": [
+    {
+      "id": 1,
+      "title": "Mathematics Past Paper 2022",
+      "subject": "Mathematics",
+      "year": "2022",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Mathematics Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Mathematics/2022.pdf"
+    },
+    {
+      "id": 2,
+      "title": "Mathematics Past Paper 2021",
+      "subject": "Mathematics",
+      "year": "2021",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Mathematics Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Mathematics/2022.pdf"
+    },
+    {
+      "id": 3,
+      "title": "Mathematics Past Paper 2020",
+      "subject": "Mathematics",
+      "year": "2020",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Mathematics Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Mathematics/2022.pdf"
+    },
+    {
+      "id": 4,
+      "title": "Mathematics Past Paper 2019",
+      "subject": "Mathematics",
+      "year": "2019",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Mathematics Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Mathematics/2022.pdf"
+    },
+    {
+      "id": 5,
+      "title": "Mathematics Past Paper 2018",
+      "subject": "Mathematics",
+      "year": "2018",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Mathematics Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Mathematics/2022.pdf"
+    },
+    {
+      "id": 6,
+      "title": "Mathematics Past Paper 2017",
+      "subject": "Mathematics",
+      "year": "2017",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Mathematics Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Mathematics/2022.pdf"
+    },
+    {
+      "id": 7,
+      "title": "Mathematics Past Paper 2016",
+      "subject": "Mathematics",
+      "year": "2016",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Mathematics Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Mathematics/2022.pdf"
+    }
+  ],
+  "ScienceEn": [
+    {
+      "id": 1,
+      "title": "Science Past Paper 2022",
+      "subject": "Science",
+      "year": "2022",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Science Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Science/2022.pdf"
+    },
+    {
+      "id": 2,
+      "title": "Science Past Paper 2021",
+      "subject": "Science",
+      "year": "2021",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Science Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Science/2022.pdf"
+    },
+    {
+      "id": 3,
+      "title": "Science Past Paper 2020",
+      "subject": "Science",
+      "year": "2020",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Science Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Science/2022.pdf"
+    },
+    {
+      "id": 4,
+      "title": "Science Past Paper 2019",
+      "subject": "Science",
+      "year": "2019",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Science Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Science/2022.pdf"
+    },
+    {
+      "id": 5,
+      "title": "Science Past Paper 2018",
+      "subject": "Science",
+      "year": "2018",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Science Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Science/2022.pdf"
+    },
+    {
+      "id": 6,
+      "title": "Science Past Paper 2017",
+      "subject": "Science",
+      "year": "2017",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Science Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Science/2022.pdf"
+    },
+    {
+      "id": 7,
+      "title": "Science Past Paper 2016",
+      "subject": "Science",
+      "year": "2016",
+      "medium": "sinhala",
+      "date": "2023.09.10",
+      "desc": "Download O/L Science Past Papers and Answers published in the previous ten years. ",
+      "url": "./Downloads/Science/2022.pdf"
+    }
+  ]
+}

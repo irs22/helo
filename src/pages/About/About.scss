@@ -1,0 +1,48 @@
+@import '../../styles/variables';
+
+.aboutPg {
+      width: 100%;
+      padding: 4rem 1rem;
+
+      .wrapper {
+            width: 100%;
+            @include aic;
+            flex-direction: column;
+
+
+            h1 {
+                  font-size: $font-size-large * 3;
+                  font-weight: 300;
+            }
+
+            .aboutImg {
+                  position: relative;
+                  min-width: 310px;
+                  max-width: 600px;
+
+            }
+
+            p {
+                  padding: 2rem 1rem;
+                  font-size: $font-size-large;
+                  color: $text-color-secondary;
+                  line-height: 1.6;
+            }
+      }
+}
+
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) {
+      .aboutPg {
+            padding: 4rem 3rem;
+
+            .wrapper {
+                  p {
+                        padding: 2rem 3rem;
+                        line-height: 1.8;
+                  }
+            }
+      }
+
+}

@@ -1,0 +1,77 @@
+@import '../../styles/variables';
+
+.wrapper {
+      width: 100%;
+      @include aic;
+      flex-direction: column;
+      gap: 2rem;
+      align-items: start;
+      padding: 2rem 2.5rem;
+
+      .desc {
+            width: 90%;
+            line-height: 1.5;
+            color: $text-color-muted;
+      }
+
+      h2 {
+            color: $text-color-error;
+      }
+
+      .papers {
+            @include aic;
+            flex-direction: column;
+            gap: 1rem;
+            list-style: circle;
+            user-select: none;
+
+            li {
+                  @include aic;
+                  flex-direction: column;
+                  gap: .5rem;
+                  align-items: start;
+
+                  .btns {
+                        @include aic;
+                        flex-direction: row;
+                        gap: 8px;
+                        justify-content: center;
+
+                        a {
+                              color: $button-text-color;
+                              font-size: 14px;
+                              @include aic;
+                              gap: 4px;
+                              padding: 4px 12px;
+                              background: $text-color-error;
+                              border-radius: 2px;
+
+                              * {
+                                    transition: none;
+
+                              }
+
+                              &:hover {
+                                    color: $text-color-primary;
+                                    text-shadow: 11px 1px 19px rgba(0, 0, 0, 0.56);
+
+                              }
+
+                        }
+                  }
+            }
+      }
+}
+
+
+@media (min-width: 992px) {
+      .wrapper .papers li {
+            flex-direction: row;
+            gap: 2rem;
+      }
+
+      .wrapper {
+            padding: 2rem 6rem !important;
+      }
+
+}

@@ -1,0 +1,88 @@
+@import '../../styles/variables';
+
+.NotFound {
+      background-color: #ffb132;
+      padding: 9rem 0 2rem;
+      height: 100vh;
+      display: grid;
+
+
+      .wrapper {
+            display: grid;
+            align-content: center;
+            row-gap: 2.5rem;
+
+            .data {
+                  text-align: center;
+
+                  .title {
+                        font-size: 4rem;
+                        margin: .75rem 0;
+                  }
+
+                  span {
+                        font-size: 2rem;
+                  }
+
+                  .btn {
+                        margin-top: 4rem;
+                        display: inline-block;
+                        background-color: #333;
+                        color: #fff;
+                        padding: .80rem 1.5rem;
+                        border-radius: 3rem;
+                        transition: .4s;
+
+                        &:hover {
+                              box-shadow: $box-shadow-focus;
+                        }
+                  }
+            }
+
+            .img {
+                  img {
+                        width: 230px;
+                        animation: floaty 1.8s infinite alternate;
+                  }
+
+                  .shadow {
+                        width: 130px;
+                        height: 24px;
+                        background-color: hsla(38, 21%, 19%, .16);
+                        margin: 0 auto;
+                        border-radius: 50%;
+                        filter: blur(7px);
+                        animation: shadow 1.8s infinite alternate;
+                  }
+            }
+      }
+
+      footer {
+            display: flex;
+            justify-content: center;
+            column-gap: .5rem;
+            font-size: var(--smaller-font-size);
+            align-self: flex-end;
+      }
+}
+
+/* Animate ghost */
+@keyframes floaty {
+      0% {
+            transform: translateY(0);
+      }
+
+      100% {
+            transform: translateY(15px);
+      }
+}
+
+@keyframes shadow {
+      0% {
+            transform: scale(1, 1);
+      }
+
+      100% {
+            transform: scale(.85, .85);
+      }
+}

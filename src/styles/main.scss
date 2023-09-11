@@ -1,0 +1,67 @@
+@import './variables';
+
+* {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      transition: $transition-fast;
+}
+
+body {
+      font-family: $font-primary;
+      overflow-x: hidden;
+}
+
+a {
+      text-decoration: none;
+      color: $text-color-info;
+      transition: $transition-fast;
+
+      &:hover {
+            color: $text-color-info-hover;
+
+      }
+}
+
+ul {
+      list-style: none;
+}
+
+.btn {
+      background: $button-background-color;
+      padding: 0.8rem 1.2rem;
+      border-radius: 6px;
+      max-width: 200px;
+      color: $button-text-color ;
+      @include aic;
+      gap: 4px;
+
+      * {
+            color: $button-text-color ;
+      }
+
+      &:hover {
+            background: darken($button-background-color, 15%);
+            color: $button-text-color;
+            box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+      }
+}
+
+img {
+      user-select: none;
+}
+
+
+button,
+.btn {
+      cursor: pointer;
+}
+
+.qttn {
+      font-size: 150% !important;
+
+      &::before {
+            content: '"';
+
+      }
+}

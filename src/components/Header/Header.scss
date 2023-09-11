@@ -1,0 +1,134 @@
+@import '../../styles/variables';
+
+
+.header {
+  position: sticky;
+  background: $background;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: $z-index-high;
+  width: 100%;
+}
+
+.nContent {
+  @include aic;
+  justify-content: space-between;
+  position: relative;
+  
+  padding: 1rem 1rem;
+  
+  
+  .menu {
+    padding: 1rem 1rem;
+    @include aic;
+    gap: 2rem;
+    display: none;
+
+    a {
+      @include aic;
+      gap: 4px;
+      color: $text-color-primary;
+
+      &:hover {
+        color: $text-color-info;
+      }
+    }
+
+  }
+
+  .btn {
+    padding: 0;
+    border: 0;
+    border-radius: 4px;
+    background: none;
+    background: $background;
+
+    * {
+      color: $text-color-primary;
+      font-size: 1.4rem;
+    }
+
+    
+    &:hover {
+      background: $background;
+      * {
+        color: $text-color-info;
+      }
+    }
+  }
+}
+
+
+.mobileNav {
+  position: absolute;
+  flex-direction: column;
+  padding: 2rem 3rem;
+  top: -15rem;
+  right: 1rem;
+  background: $background;
+  box-shadow: $box-shadow-hover;
+  border-radius: 8px;
+  z-index: $z-index-high;
+  transition: $transition-medium;
+
+  &.active {
+    right: 1rem;
+    top: 6rem;
+  }
+
+  ul {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    padding: 1rem 0;
+
+    a {
+      @include aic;
+      gap: 4px;
+      color: $text-color-primary;
+
+      &:hover {
+        color: $text-color-info;
+      }
+    }
+  }
+
+}
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {
+  .header {
+    background: $background;
+
+
+  }
+
+  .nContent {
+    @include aic;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+    position: relative;
+
+    img {
+      width: 200px;
+    }
+
+
+    .menu {
+      @include aic;
+      gap: 2rem;
+
+      a {
+        color: $text-color-primary;
+
+        &:hover {
+          color: $text-color-info;
+        }
+      }
+
+
+    }
+
+  }
+}

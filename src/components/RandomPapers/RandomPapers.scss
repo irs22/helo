@@ -1,0 +1,121 @@
+@import '../../styles/variables';
+
+.randomPosts {
+      width: 100%;
+      padding: 4rem 1rem;
+      @include aic;
+      justify-content: center;
+      flex-direction: column;
+      gap: 4rem;
+
+      h1 {
+            font-size: $font-size-large ;
+            font-weight: 400;
+            color: $text-color-secondary;
+            text-align: center;
+      }
+
+      .wrapper {
+            display: grid;
+            grid-template-columns: repeat(1, 1fr);
+            row-gap: 4rem;
+            column-gap: 3rem;
+            place-items: center;
+            transition: all .5s linear;
+            padding: 0;
+
+            .post {
+                  max-width: 500px;
+                  @include aic;
+                  justify-content: center;
+                  flex-direction: column;
+                  gap: 1rem;
+                  padding: 1rem 2rem;
+                  box-shadow: $box-shadow-large;
+                  transition: all .5s linear;
+
+                  .pHeader {
+                        width: 100%;
+                        display: flex;
+                        align-items: center;
+                        justify-content: space-between;
+
+                        span {
+                              color: $text-color-info;
+                        }
+                  }
+
+                  .pBody {
+                        @include aic;
+                        flex-direction: column;
+                        gap: 1rem;
+                        text-align: center;
+
+                        h3 {
+                              font-weight: 500;
+                              color: $text-color-secondary;
+                              font-size: $font-size-large;
+                        }
+
+                        p {
+                              color: $text-color-muted;
+                              font-size: $font-size-medium;
+                        }
+                  }
+
+                  .pFooter {
+                        padding: 1rem 0;
+                        width: 100%;
+                        @include aic;
+                        justify-content: space-between;
+
+                        span {
+                              @include aic;
+                              gap: 6px;
+                        }
+                  }
+            }
+      }
+}
+
+
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) {
+
+      .randomPosts {
+            padding: 4rem 3rem;
+
+
+
+            .wrapper {
+                  grid-template-columns: repeat(2, 1fr);
+
+
+
+                  .post {
+                        gap: 1rem;
+                        padding: 1rem 2rem;
+
+
+
+                  }
+            }
+      }
+}
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {}
+
+// X-Large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {}
+
+// XX-Large devices (larger desktops, 1400px and up)
+@media (min-width: 1400px) {
+      .randomPosts {
+            .wrapper {
+                  padding: 0;
+                  grid-template-columns: repeat(3, 1fr);
+            }
+      }
+}
